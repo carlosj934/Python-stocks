@@ -1,3 +1,5 @@
+# tutorial from https://www.youtube.com/watch?v=K2rPr0T17yQ
+
 import math
 import datetime as dt
 
